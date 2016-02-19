@@ -14,7 +14,7 @@ This library will help you to send messages to endpoints. An example would be:
 import requests
 from BlabToMe import SendBlabToEndPoints
 
-endpointToMessage = "EPOmJpyx1wCxOTBEygeH9vvnzdvZy167,EPUKqnxbYR24bV74Wxi9RUDtqR7gfNUw"
+endpointToMessage = "EP123aBc,EP987xZy"
 messageToBlab = "Message from Python Helper Library"
 BlabUsername = "ThisIsMyUsername"
 BlabPassword = "ThisIsNotASecurePassword"
